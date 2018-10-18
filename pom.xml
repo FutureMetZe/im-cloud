@@ -6,7 +6,7 @@
     <groupId>com.imooc</groupId>
     <artifactId>im-cloud</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
 
     <name>im-cloud</name>
     <description>Demo project for Spring Boot</description>
